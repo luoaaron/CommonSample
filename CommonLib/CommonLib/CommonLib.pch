@@ -1,0 +1,31 @@
+//
+//  CATHAY.pch
+//  CATHAY
+//
+//  Created by Frank on 14-10-15.
+//  Copyright (c) 2014年 vizz. All rights reserved.
+//
+
+#ifndef CATHAY_CATHAY_pch
+#define CATHAY_CATHAY_pch
+
+#import <Availability.h>
+
+#import "Constants.h"
+
+#import "UtilsMacro.h"
+
+#import "UserDefaults.h"
+
+#import "AppMarco.h"
+
+#import "Language.h"
+#import "LanguageButton.h"
+#import "LanguageLabel.h"
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+
+
+#endif
